@@ -1,26 +1,25 @@
-## Hi, I'm Manswi 👋
+# Hi, I'm Manswi 👋
 
-🎓 First-year B.Tech student in Mathematics & Computing at IIIT Raichur  
-💻 Learning Java (OOP, arrays, logic building) and C  
-🧠 Interested in problem-solving and core CS fundamentals  
+1st year B.Tech Mathematics & Computing @ IIIT Raichur
 
-## 🔧 Currently Learning
-- Java (arrays, methods, control flow)
-- Object Oriented Programming basics
-- Writing programs using terminal editors (nano)
-- Git & GitHub fundamentals
+I build tools I wish existed when I was stuck.
+Currently into CTF challenges, web security and making security concepts actually understandable for beginners.
 
-## 🛠️ Tech Stack
-- Languages: C, Java , Python
-- Tools: Git, GitHub, Linux terminal, nano
-- Concepts: Problem solving, basic DSA, OOP fundamentals
+## 🔨 What I've Built
 
-## 🎯 Goals for 2026
-- Build 4–5 solid Java projects
-- Improve problem solving consistency
-- Learn proper data structures & algorithms
-- Start contributing to open source (beginner-friendly)
+**[CTF Learning Assistant](https://newton-lebniz.github.io)**
+A browser tool that detects encoding types from raw strings and teaches you prerequisites before decoding. Supports 10+ encodings. 
+Built because every CTF tool just gives answers without explaining anything.
+`HTML` `CSS` `JavaScript` `Cybersecurity`
 
-📫 Reach me:  
-- Email: manswipradhan@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/manswi-pradhan
+## 🌱 Currently Learning
+- JavaScript (building real tools, not tutorials)
+- Web exploitation (CTF challenges)
+- Java — OOP, data structures
+
+## 🛠 Tech
+C · Java · HTML/CSS · JavaScript · Linux · Git · Python
+
+## 📫 Reach me
+- LinkedIn: [manswi-pradhan](https://linkedin.com/in/manswi-pradhan)
+- Email: manswipradhan@gmail.com
