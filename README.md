@@ -18,7 +18,7 @@ Built because every CTF tool just gives answers without explaining anything.
 - Java — OOP, data structures
 
 ## 🛠 Tech
-C · Java · HTML/CSS · JavaScript · Linux · Git · Python
+C · Java · HTML/CSS · JavaScript · Linux · Git 
 
 ## 📫 Reach me
 - LinkedIn: [manswi-pradhan](https://linkedin.com/in/manswi-pradhan)
