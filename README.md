@@ -7,7 +7,7 @@ I build tools I wish existed when I was stuck. Currently leaning into CTF challe
 
 ### 🔨 What I've Built
 
-**[CTF Learning Assistant](https://newton-lebniz.github.io/)** — *Solo project*
+**[CTF Learning Assistant](https://github.com/newton-lebniz/CTF-Learning-Assistant)** — *Solo project*
 A browser tool that detects encoding types from raw strings and teaches you the prerequisites before decoding. Supports 10+ encodings. Built because every CTF tool just gives answers without explaining anything.
 `HTML` `CSS` `JavaScript` `Cybersecurity`
 
